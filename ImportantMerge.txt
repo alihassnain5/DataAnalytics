@@ -11,4 +11,8 @@ sdas
 
 
 sdasdsadasdasddas
+<<<<<<< HEAD
 dsadasdasd
+=======
+dsadasdasd
+>>>>>>> ac63c7b86c4fadbc9d58b4584b044afd529c9ffe
